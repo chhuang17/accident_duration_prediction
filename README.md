@@ -23,4 +23,4 @@
 
 
 # 資料處理、分析方法及預估模式
-詳細的資料處理、分析及預估方法，請見bayes_classifier.ipynb
+詳細的資料處理、分析及預估方法，請見bayes_classifier.ipynb。
