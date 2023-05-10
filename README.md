@@ -34,7 +34,7 @@
 如果今天有一起事故，它的屬性資料如下：
 <br>
 <div align="center">
-<img src="https://github.com/chhuang17/accident_duration_prediction/assets/81426493/560143c0-9f70-47df-a439-5d01f2928054" width="1000" height="130">
+<img src="https://github.com/chhuang17/accident_duration_prediction/assets/81426493/560143c0-9f70-47df-a439-5d01f2928054" width="1000" height="120">
 </div>
 <br>
 接著，我們就會從歷史資料庫中，尋找具有相同事故屬性資料的所有事故，並得到這些事故處理時間的機率分布，並選擇機率最高者。<br>
